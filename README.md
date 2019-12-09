@@ -4,7 +4,6 @@
 
 Kullanılan teknolojiler : **Ubuntu 16.04, Nginx, Gunicorn, PostgreSQL**
 
-Dersler YouTube'da ücretsiz olarak yayımlanmaktadır.
 
 
 **İçindekiler**
